@@ -1,0 +1,9 @@
+name: "return-to-the-roots"
+displayName: "Return to The Roots"
+description: "Mindustry mod that adds some stone, dirt and other technologies to Serpulo."
+author: "LosSasikos"
+minGameVersion: 136
+version: 0.0.1
+hidden: false
+hideBrowser: false
+repo: "LosSasikos/Return-to-The-Roots"
